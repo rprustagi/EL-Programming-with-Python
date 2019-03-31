@@ -8,15 +8,15 @@ Why and when do we need them. What kind of variables and their representation. W
 ## 2.* Debugging the code.
 How not to use print (or equivalent for debugging). Working with conditional execution.
 
-##3. Working with loops and basic function/procedures.*
+## 3. Working with loops and basic function/procedures.*
 
-##4. Using recursion to solve simple problems*
+## 4. Using recursion to solve simple problems*
 Design thinking in terms of recursion rather than computation to solve.
 
-##5. Understanding arrays.
+## 5. Understanding arrays.
 Using arrays and recursion.
 
-##6. Applying recursion concept to solve different type of problems.*
+## 6. Applying recursion concept to solve different type of problems.*
 
 Others to be worked out. We can look into object oriented programming and classes, variable length entities, Inheritance, polymorphism, operator overloading etc.
 
