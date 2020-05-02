@@ -1,3 +1,10 @@
+# MT-Python-Programming
+This course was done during covid-19 lockdown at Mantri Tranquil primarily targeted towards 11th and 12th class students.
+These online classes are conducted to create interest among students to learn python by writing simple and small program to understand the concept as well as bring confidence with some sense of achievement.
+
+## MT-Python-Programming/MT-Programs
+The sample programs used during the online class are provided here as well as programming solutions to exercises in each class is also provided. It is recommended that learners should first try to write their own programs before looking at these solutions.
+
 # EL-Basics-of-Programming
 This course covers basics of programming skills.
 Course outline for initial few classes.
