@@ -1,0 +1,12 @@
+11, physics, 20, 80
+11, maths, 20, 79
+11, chemistry, 18, 78
+11, english, 18, 79
+11, biology, 19, 76
+
+12, physics, 20, 80
+11, maths, 20, 79
+12, chemistry, 18, 78
+12, english, 18, 79
+12, biology, 19, 76
+
